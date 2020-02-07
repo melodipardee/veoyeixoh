@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeikeishe.statto.app/sitemap.xml
